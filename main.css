@@ -1,0 +1,30 @@
+.button{
+    height: 300px;
+    width: 300px;
+}
+
+#button1{
+    background-color: red;
+}
+
+#button2{
+    background-color: green;
+}
+
+#button3{
+    background-color: yellow;
+}
+
+#button4{
+    background-color: blue;
+}
+
+#main-board-game{
+    height: 600px;
+    width: 600px;
+    margin: auto;
+}
+
+#round-title{
+    display: none;
+}
